@@ -1,4 +1,4 @@
- message = input(">")
+message = input(">")
 words = message.split(" ")
 
 emojis = {
